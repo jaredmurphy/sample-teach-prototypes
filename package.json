@@ -1,0 +1,11 @@
+{
+  "name": "sample-teach-prototypes",
+  "version": "1.0.0",
+  "description": "A sample lesson for General Assembly in which I teach Prototypes",
+  "main": "prototypes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
