@@ -1,5 +1,10 @@
 ### Intro & Learning Objectives
+ Today we are talking about prototypes!
 
+ Learning Objectives -
+ 1. Learn how to use prototypes and constructors to create an inheritance model in JavaScript
+ 2. Understand the differences between classical and prototypical inheritance
+ 3. See how inheritance has changed for ES6
 
 ### What is a Prototype
 Every object in JavaScript has a special related object called the prototype.
